@@ -26,7 +26,7 @@ The developed system should be efficient, accurate, and user-friendly, providing
 ***Tools used*** - LlamaIndex (only for now) has been used due to its powerful query engine, fast data processing using data loaders and directory readers as well as easier and faster implementation using fewer lines of code.
 
 ## System Design
-![image](https://github.com/PrabakarTS/SemanticSpotter/assets/System-Design)
+![image](https://github.com/PrabakarTS/SemanticSpotter/blob/main/System-Design.png)
 
 
 ## Lesson Learnt
